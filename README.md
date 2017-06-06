@@ -1,0 +1,2 @@
+# CC26xx_SDK_2.2.1
+BLE-STACK V2.2.1 supports Bluetooth 4.2 for CC2640/CC2650/CC1350
